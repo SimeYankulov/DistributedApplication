@@ -1,0 +1,15 @@
+C:\Users\janku\source\repos\Repository\bin\Debug\Repository.dll.config
+C:\Users\janku\source\repos\Repository\bin\Debug\Repository.dll
+C:\Users\janku\source\repos\Repository\bin\Debug\Repository.pdb
+C:\Users\janku\source\repos\Repository\bin\Debug\EntityFramework.dll
+C:\Users\janku\source\repos\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\janku\source\repos\Repository\bin\Debug\Library.dll
+C:\Users\janku\source\repos\Repository\bin\Debug\Library.pdb
+C:\Users\janku\source\repos\Repository\bin\Debug\Library.dll.config
+C:\Users\janku\source\repos\Repository\bin\Debug\EntityFramework.xml
+C:\Users\janku\source\repos\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\janku\source\repos\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\janku\source\repos\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\janku\source\repos\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\janku\source\repos\Repository\obj\Debug\Repository.dll
+C:\Users\janku\source\repos\Repository\obj\Debug\Repository.pdb

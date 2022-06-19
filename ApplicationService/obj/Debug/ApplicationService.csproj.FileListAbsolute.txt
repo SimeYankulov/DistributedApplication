@@ -1,0 +1,15 @@
+C:\Users\janku\source\repos\ApplicationService\obj\Debug\ApplicationService.csprojAssemblyReference.cache
+C:\Users\janku\source\repos\ApplicationService\obj\Debug\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\janku\source\repos\ApplicationService\bin\Debug\ApplicationService.dll
+C:\Users\janku\source\repos\ApplicationService\bin\Debug\ApplicationService.pdb
+C:\Users\janku\source\repos\ApplicationService\bin\Debug\Library.dll
+C:\Users\janku\source\repos\ApplicationService\bin\Debug\Repository.dll
+C:\Users\janku\source\repos\ApplicationService\bin\Debug\EntityFramework.dll
+C:\Users\janku\source\repos\ApplicationService\bin\Debug\Library.pdb
+C:\Users\janku\source\repos\ApplicationService\bin\Debug\Library.dll.config
+C:\Users\janku\source\repos\ApplicationService\bin\Debug\Repository.pdb
+C:\Users\janku\source\repos\ApplicationService\bin\Debug\Repository.dll.config
+C:\Users\janku\source\repos\ApplicationService\bin\Debug\EntityFramework.xml
+C:\Users\janku\source\repos\ApplicationService\obj\Debug\ApplicationService.csproj.CopyComplete
+C:\Users\janku\source\repos\ApplicationService\obj\Debug\ApplicationService.dll
+C:\Users\janku\source\repos\ApplicationService\obj\Debug\ApplicationService.pdb
