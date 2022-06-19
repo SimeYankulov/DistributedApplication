@@ -1,0 +1,17 @@
+C:\Users\janku\source\repos\Library\bin\Debug\Library.dll.config
+C:\Users\janku\source\repos\Library\bin\Debug\Library.dll
+C:\Users\janku\source\repos\Library\bin\Debug\Library.pdb
+C:\Users\janku\source\repos\Library\bin\Debug\EntityFramework.dll
+C:\Users\janku\source\repos\Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\janku\source\repos\Library\bin\Debug\EntityFramework.xml
+C:\Users\janku\source\repos\Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\janku\source\repos\Library\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\janku\source\repos\Library\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\janku\source\repos\Library\obj\Debug\Data.csproj.CopyComplete
+C:\Users\janku\source\repos\Library\obj\Debug\Library.dll
+C:\Users\janku\source\repos\Library\obj\Debug\Library.pdb
+C:\Users\janku\source\repos\Library\obj\Debug\Library.Migrations.InitialMigration.resources
+C:\Users\janku\source\repos\Library\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\janku\source\repos\Library\obj\Debug\Library.Migrations.GetSetAdded.resources
+C:\Users\janku\source\repos\DAPROJ\Library\obj\Debug\Library.dll
+C:\Users\janku\source\repos\DAPROJ\Library\obj\Debug\Library.pdb
