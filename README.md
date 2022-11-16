@@ -1,2 +1,2 @@
 # DistributedApplication
-This is my project for the subject Distributed Applications 
+Project for the course Distributed Applications. It is a .net project using SOAP API
